@@ -39,3 +39,4 @@ hotel = Hotel('Hotel POO', '5 Estrellas', 200, 'Si')
 hotel.mostrar_informacion()
 alberca = hotel.get_alberca()
 print(alberca)
+#
